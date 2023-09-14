@@ -61,6 +61,7 @@ ___
 
 #### Add Users :
 POST Method :  http://localhost:8086/addUsers
+![Add Users](https://github.com/Avadheshshukla/User_Management_System_Using_SpringBoot/blob/main/images/Adding_Users.png)
 
 
 #### Get All Users :
