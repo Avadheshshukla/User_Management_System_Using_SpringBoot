@@ -63,7 +63,7 @@ ___
 POST Method :  http://localhost:8086/addUsers
 //![Add Users](https://github.com/Avadheshshukla/User_Management_System_Using_SpringBoot/blob/main/images/Adding_Users.png)
 
-<img src="https://github.com/Avadheshshukla/User_Management_System_Using_SpringBoot/blob/main/images/Adding_Users.png" alt="Image Description" width="500"/>
+<img src="https://github.com/Avadheshshukla/User_Management_System_Using_SpringBoot/blob/main/images/Adding_Users.png" alt="Image Description" width="500" height="300"/>
 
 
  #### GET User By ID :
