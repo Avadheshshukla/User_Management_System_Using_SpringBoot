@@ -1,4 +1,4 @@
-# <h1 align = "center"> User Management System Using Spring_Boot </h1>
+# <h1 align = "center"> User Management System Using Spring_Boot👤 </h1>
 ___ 
 <p align="center">
 <a href="Java url">
@@ -22,7 +22,7 @@ ___
 </p>
 
 <!-- Table of Contents -->
-## Table of Contents
+## Table of Contents📑
 1. [Technologies Used](#technologies-used)
 2. [Key Features](#key-features)
 3. [Usage](#usage)
@@ -32,7 +32,7 @@ ___
 7. [Contact](#contact)
 
 <!-- Technologies Used -->
-## Technologies Used
+## Technologies Used🧑‍💻
 - Java 8
 - Spring Boot
 - Spring Web Initializer
@@ -40,7 +40,7 @@ ___
 - Spring Web Dependency
 
 <!-- Key Features -->
-## Key Features
+## Key Features🔑
 - Add Users
 - Get All Users.
 - Get User Details By Id.
@@ -52,32 +52,32 @@ ___
 - Access the application at `http://localhost:8086`.
 - Use the provided API endpoints to manage your User Management.
 
-### Controller:
+### Controller🎮:
 - It consists of a class named APIController which basically controls the flow of data.
 - @RestController annotation is used to make the APIController as a controller layer.
 - We perform the CRUD operations such as @PostMapping , @GetMapping , @PutMapping , @DeleteMapping.
 
 ### API Reference
 
-#### Add Users :
+#### Add Users👤 :
 POST Method :  http://localhost:8086/addUsers
 
 <img src="https://github.com/Avadheshshukla/User_Management_System_Using_SpringBoot/blob/main/images/Adding_Users.png" alt="Image Description" width="300"/>
 
 
- #### GET User By ID :
+ #### GET User By ID 👤:
  - GET Method :   http://localhost:8086/getUserById/{id}
 <img src="https://github.com/Avadheshshukla/User_Management_System_Using_SpringBoot/blob/main/images/get_user_byId.png" alt="Image Description" width="380"/>
 
-#### GET All Users :
+#### GET All Users 👤:
  - GET Method :   http://localhost:8086/getAllUsers
 <img src="https://github.com/Avadheshshukla/User_Management_System_Using_SpringBoot/blob/main/images/get_All_Users.png" alt="Image Description" height="250" width="380"/>
 
- #### DELETE User :
+ #### DELETE User 👤:
  - DELETE Method :   http://localhost:8086/delete_User_Id/{id}
 <img src="https://github.com/Avadheshshukla/User_Management_System_Using_SpringBoot/blob/main/images/Delete_User.png" alt="Image Description" width="300"/>
 
-  #### Update User ID :
+  #### Update User ID👤 :
  - PUT Method :   http://localhost:8086/updateId/id/{id}/updateId
 <img src="https://github.com/Avadheshshukla/User_Management_System_Using_SpringBoot/blob/main/images/Update_User_Id.png" alt="Image Description" width="300"/>
 
@@ -90,7 +90,7 @@ POST Method :  http://localhost:8086/addUsers
 - Thank you to the Spring Boot and Java communities for providing excellent tools and resources.
 
 <!-- Contact -->
-## Contact
+## Contact📲
 For questions or feedback, please contact : Avadhesh Shukla👍
 - Maild Id 📧: avadheshsukla1636@gmail.com
 
