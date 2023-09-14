@@ -35,7 +35,7 @@ ___
 ## Technologies Used
 - Java 8
 - Spring Boot
-- Spring Web
+- Spring Web Initializer
 - Maven
 - Spring Web Dependency
 
@@ -61,6 +61,7 @@ ___
 
 #### Add Users :
 POST Method :  http://localhost:8086/addUsers
+
 
 #### Get All Users :
  - GET Method : http://localhost:8086/get_userId/id/3
@@ -89,9 +90,8 @@ POST Method :  http://localhost:8086/addUsers
 For questions or feedback, please contact : Avadhesh Shukla   -
 - Maild Id : avadheshsukla1636@gmail.com
 
-<h3 align = "center"> ******************************************************<h3>
-<h3 align="center">Thank You...<h1>
-<h3 align = "center"> ******************************************************<h3>
+<h1 align="center">Thank You...<h1>
+<h3 align = "center"> ***********************************************************<h3>
 
 
 
