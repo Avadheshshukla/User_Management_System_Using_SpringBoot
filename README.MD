@@ -71,7 +71,7 @@ POST Method :  http://localhost:8086/addUsers
 
 #### GET All Users :
  - GET Method :   http://localhost:8086/getAllUsers
-<img src="https://github.com/Avadheshshukla/User_Management_System_Using_SpringBoot/blob/main/images/get_All_Users.png" alt="Image Description" width="300" height="300"/>
+<img src="https://github.com/Avadheshshukla/User_Management_System_Using_SpringBoot/blob/main/images/get_All_Users.png" alt="Image Description" width="380"/>
 
  #### DELETE User :
  - DELETE Method :   http://localhost:8086/delete_User_Id/{id}
