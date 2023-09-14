@@ -63,11 +63,6 @@ ___
 POST Method :  http://localhost:8086/addUsers
 ![Add Users](https://github.com/Avadheshshukla/User_Management_System_Using_SpringBoot/blob/main/images/Adding_Users.png)
 
-
-#### Get All Users :
- - GET Method : http://localhost:8086/get_userId/id/3
-![Add Users](https://github.com/Avadheshshukla/User_Management_System_Using_SpringBoot/blob/main/images/Adding_Users.png)
-
  #### GET User By ID :
  - GET Method :   http://localhost:8086/getUserById/{id}
 ![Add Users](https://github.com/Avadheshshukla/User_Management_System_Using_SpringBoot/blob/main/images/get_user_byId.png)
