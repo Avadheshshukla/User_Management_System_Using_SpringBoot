@@ -62,24 +62,25 @@ ___
 #### Add Users :
 POST Method :  http://localhost:8086/addUsers
 
-<img src="https://github.com/Avadheshshukla/User_Management_System_Using_SpringBoot/blob/main/images/Adding_Users.png" align="center" alt="Image Description" width="400"/>
+<img src="https://github.com/Avadheshshukla/User_Management_System_Using_SpringBoot/blob/main/images/Adding_Users.png" alt="Image Description" width="400"/>
 
 
  #### GET User By ID :
  - GET Method :   http://localhost:8086/getUserById/{id}
-![Add Users](https://github.com/Avadheshshukla/User_Management_System_Using_SpringBoot/blob/main/images/get_user_byId.png)
+<img src="https://github.com/Avadheshshukla/User_Management_System_Using_SpringBoot/blob/main/images/get_user_byId.png" alt="Image Description" width="400"/>
 
 #### GET All Users :
  - GET Method :   http://localhost:8086/getAllUsers
-![Add Users](https://github.com/Avadheshshukla/User_Management_System_Using_SpringBoot/blob/main/images/get_All_Users.png)
+<img src="https://github.com/Avadheshshukla/User_Management_System_Using_SpringBoot/blob/main/images/get_All_Users.png" alt="Image Description" width="400"/>
 
  #### DELETE User :
  - DELETE Method :   http://localhost:8086/delete_User_Id/{id}
-![Add Users](https://github.com/Avadheshshukla/User_Management_System_Using_SpringBoot/blob/main/images/Delete_User.png)
+<img src="https://github.com/Avadheshshukla/User_Management_System_Using_SpringBoot/blob/main/images/Delete_User.png" alt="Image Description" width="400"/>
 
   #### Update User ID :
  - PUT Method :   http://localhost:8086/updateId/id/{id}/updateId
-![Add Users](https://github.com/Avadheshshukla/User_Management_System_Using_SpringBoot/blob/main/images/Update_User_Id.png)
+<img src="https://github.com/Avadheshshukla/User_Management_System_Using_SpringBoot/blob/main/images/Update_User_Id.png" alt="Image Description" width="400"/>
+
 
 
 
