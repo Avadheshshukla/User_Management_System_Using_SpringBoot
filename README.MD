@@ -67,19 +67,19 @@ POST Method :  http://localhost:8086/addUsers
 
  #### GET User By ID :
  - GET Method :   http://localhost:8086/getUserById/{id}
-<img src="https://github.com/Avadheshshukla/User_Management_System_Using_SpringBoot/blob/main/images/get_user_byId.png" alt="Image Description" width="400"/>
+<img src="https://github.com/Avadheshshukla/User_Management_System_Using_SpringBoot/blob/main/images/get_user_byId.png" alt="Image Description" width="300"/>
 
 #### GET All Users :
  - GET Method :   http://localhost:8086/getAllUsers
-<img src="https://github.com/Avadheshshukla/User_Management_System_Using_SpringBoot/blob/main/images/get_All_Users.png" alt="Image Description" width="400"/>
+<img src="https://github.com/Avadheshshukla/User_Management_System_Using_SpringBoot/blob/main/images/get_All_Users.png" alt="Image Description" width="300"/>
 
  #### DELETE User :
  - DELETE Method :   http://localhost:8086/delete_User_Id/{id}
-<img src="https://github.com/Avadheshshukla/User_Management_System_Using_SpringBoot/blob/main/images/Delete_User.png" alt="Image Description" width="400"/>
+<img src="https://github.com/Avadheshshukla/User_Management_System_Using_SpringBoot/blob/main/images/Delete_User.png" alt="Image Description" width="300"/>
 
   #### Update User ID :
  - PUT Method :   http://localhost:8086/updateId/id/{id}/updateId
-<img src="https://github.com/Avadheshshukla/User_Management_System_Using_SpringBoot/blob/main/images/Update_User_Id.png" alt="Image Description" width="400"/>
+<img src="https://github.com/Avadheshshukla/User_Management_System_Using_SpringBoot/blob/main/images/Update_User_Id.png" alt="Image Description" width="300"/>
 
 
 
